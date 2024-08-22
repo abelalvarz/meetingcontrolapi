@@ -29,6 +29,6 @@ to check swagger documentation.
 
 This API uses H2 on Memory Database, once application is running, go to http://localhost:8080/h2-console
 to check database and enter next information on Login Form.
-JDBC URL: jdbc:h2:mem:taskeasy
-User Name: sa
-Password: password
+- **JDBC URL**: jdbc:h2:mem:taskeasy
+- **User Name**: sa
+- **Password**: password
